@@ -7,10 +7,10 @@
 # SISTEMA INTEGRAL DE GESTIÓN DE CLIENTES,
 # SERVICIOS Y RESERVAS
 #
-# ESTUDIANTE: Juan David Pérez Martínez
-# GRUPO: 213023_45
+# ESTUDIANTE: Jesly Manuel Barbudo Oviedo y Ebed Melec Mayorca Gutierrez
+# GRUPO: 213023_43
 # ÁREA DE FORMACIÓN: Ingeniería de Sistemas
-# TUTOR: Carlos Andrés Ramírez
+# TUTOR: Yahith Yamid Gutierrez Gomez
 #
 # DESCRIPCIÓN:
 # Sistema desarrollado en Python usando:
